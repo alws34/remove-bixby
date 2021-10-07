@@ -1,4 +1,4 @@
-cd /d "<path to ADB folder>"
+rem cd /d "<path to ADB folder>"
 rem adb can be downloaded here: https://dl.google.com/android/repository/platform-tools-latest-windows.zip
 
 rem need to enable USB DEBUGGING PRIOR to running the batch file! 
